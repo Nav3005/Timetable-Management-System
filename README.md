@@ -43,3 +43,27 @@ The Time Table Management System is a comprehensive application designed to effi
    git clone https://github.com/Nav3005/Timetable-Management-System.git
    cd Timetable-Management-System
 
+### Usage
+
+1. **Launching the Application**:
+   - Run `Timetable Management system.py` to start the application.
+   - Use the intuitive GUI to navigate through different features.
+
+2. **Creating a Timetable**:
+   - Navigate to the "Create Timetable" section.
+   - Fill in the details such as date, time, subject, and instructor.
+   - Save the timetable to the database.
+
+3. **Editing a Timetable**:
+   - Search for the timetable you want to edit.
+   - Make the necessary changes and save the updates.
+
+4. **Viewing Timetables**:
+   - Use the search and filter options to view specific timetables.
+   - Generate and export reports as needed.
+
+### Contribution
+
+Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes. Ensure your code follows the project's coding standards and is well-documented.
+
+
