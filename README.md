@@ -43,6 +43,13 @@ The Time Table Management System is a comprehensive application designed to effi
    git clone https://github.com/Nav3005/Timetable-Management-System.git
    cd Timetable-Management-System
 
+2. **Set Up the Database**:
+   Initialize your SQL database using the provided SQL file `database for time table.sql` and configure the connection settings in the application.
+
+3. **Run the Application**:
+   ```bash
+   python Timetable Management system.py
+
 ### Usage
 
 1. **Launching the Application**:
@@ -62,8 +69,7 @@ The Time Table Management System is a comprehensive application designed to effi
    - Use the search and filter options to view specific timetables.
    - Generate and export reports as needed.
 
-### Contribution
 
-Contributions are welcome! Please fork the repository and submit pull requests for any enhancements or bug fixes. Ensure your code follows the project's coding standards and is well-documented.
+
 
 
